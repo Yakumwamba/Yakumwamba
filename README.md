@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 Enthusiastic about the best Web and Mobile development technologies.
 I currently working with NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
+I am Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
+My goal is to have the opportunity to contribute to the construction of innovations and solutions from my knowledge. 🚧
+As a future objective, I intend to obtain the necessary knowledge to be able to teach and encourage new minds to come to the world of development, thereby building new professionals with good technical knowledge and good notions of the market and evolution. 📚
+I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
+
+Let's Code 💻
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -24,14 +30,6 @@ I currently working with NodeJS, ReactJS, React Native technologies and all the 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-I am Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
-My goal is to have the opportunity to contribute to the construction of innovations and solutions from my knowledge. 🚧
-As a future objective, I intend to obtain the necessary knowledge to be able to teach and encourage new minds to come to the world of development, thereby building new professionals with good technical knowledge and good notions of the market and evolution. 📚
-I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
-Let's Code 💻
-
-# Operating Systems
 
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
