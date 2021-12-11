@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Enthusiastic about the best Web and Mobile development technologies.
+I am Enthusiastic about the best Web and Mobile development technologies.
 I currently working with NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
 I am Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
 My goal is to have the opportunity to contribute to the construction of innovations and solutions from my knowledge. 🚧
 As a future objective, I intend to obtain the necessary knowledge to be able to teach and encourage new minds to come to the world of development, thereby building new professionals with good technical knowledge and good notions of the market and evolution. 📚
-I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀
+I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀👯
+
 
 Let's Code 💻
 
