@@ -1,4 +1,4 @@
-### Hi,my name is Brian 👋
+### Hi 👋,my name is Brian 
 ![developer-2143200-1801815](https://user-images.githubusercontent.com/72974932/145674429-c649d416-fde3-4630-a9bf-65c65447cd52.png)
 <!--
 **Yakumwamba/Yakumwamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
