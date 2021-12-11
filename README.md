@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![developer-2143200-1801815](https://user-images.githubusercontent.com/72974932/145674429-c649d416-fde3-4630-a9bf-65c65447cd52.png)
 <!--
 **Yakumwamba/Yakumwamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ I am enthusiastic about the best Web and Mobile development technologies. 🌍�
 
 Currently I'am working with NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
 I am Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
-My goal is to have the opportunity to contribute to the construction of innovations and solutions from my knowledge. 🚧 ![developer-2143200-1801815](https://user-images.githubusercontent.com/72974932/145674429-c649d416-fde3-4630-a9bf-65c65447cd52.png)
+My goal is to have the opportunity to contribute to the construction of innovations and solutions from my knowledge. 🚧 
 As a future objective, I intend to obtain the necessary knowledge to be able to teach and encourage new minds to come to the world of development, thereby building new professionals with good technical knowledge and good notions of the market and evolution. 📚
 I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀👯
 
