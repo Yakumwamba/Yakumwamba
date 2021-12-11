@@ -21,7 +21,7 @@ As a future objective, I intend to obtain the necessary knowledge to be able to 
 I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀👯**
 
 
-***Let's Code 💻
+**Let's Code 💻
 
 [![Yaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakumwamba&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
