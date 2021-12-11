@@ -22,6 +22,7 @@ I am looking for an opportunity to show my full potential and thereby evolve at 
 
 
 Let's Code 💻
+[![Yaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakumwamba&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
