@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am enthusiastic about the best Web and Mobile development technologies. 🌍 
 
-Currently I'am working with NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱 
+Currently I'm working with NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱 
 
 I am Passionate about the entire Web and Mobile development ecosystem, I try to develop solid and efficient knowledge based on continuous study, but not only in programming. 
 My passion goes through all stages of product development, from UX / UI to the deployment of applications and marketing strategies. 💜
