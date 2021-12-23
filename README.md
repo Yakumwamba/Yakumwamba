@@ -31,7 +31,7 @@ I am looking for an opportunity to show my full potential and thereby evolve at 
 
 
 
-Contact Me💻
+Contact Me💻 brianlemba2@gmail.com
 
 [![Yaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakumwamba&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
