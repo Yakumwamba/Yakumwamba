@@ -26,7 +26,7 @@ My goal is to have the opportunity to contribute to the construction of innovati
 
 As a future objective, I intend to obtain the necessary knowledge to be able to teach and encourage new minds to come to the world of development, thereby building new professionals with good technical knowledge and good notions of the market and evolution. 📚
 
-I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀👯
+I am looking for an opportunity to show my full potential and thereby evolve at a professional and personal level. 🚀�
 
 
 
