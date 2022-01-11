@@ -24,9 +24,9 @@ Currently I'm working with React, TypeScript and JavaScript in building pixel-pe
 
 💬 Ask me about open source, Web3, React, TypeScript and Javascript.
 
-### 📫 How to reach me:
+### 📫 Reach me : [website](https://yakuportfolio.vercel.app)
 
-   [website](https://yakuportfolio.vercel.app)
+
    
 ### 📕 Latest Blog Posts
 
