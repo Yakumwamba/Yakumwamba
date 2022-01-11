@@ -27,7 +27,7 @@ Currently I'm working with React, TypeScript and JavaScript in building pixel-pe
 [![Yaku's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&username=yakumwamba&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-                                                                  Show some ❤️ by starring some of the repositories!
+                                                             Show some ❤️ by starring some of the repositories!
 
 
 
