@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am interested in Web3 🌍 because of my WebRTC background. I basically started exploring web3 because of the interest I have in networks and not just networks but decentralized networks. I began researching on how web3 and WebRTC can be combined in order to create a more resilient network that is user- centric and also exploring more how a concept of tokens can be incorporated in such a system. Therefore I have a deep interest in Tokenomics and everything that ensures that there's is a right governance on the distribution of such representation of value.
+I am interested in Web3 🌍 because of my WebRTC background. I basically started exploring web3 because of the interest I have in networks especially decentralized networks. I began researching on how web3 and WebRTC can be combined in order to create a more resilient network that is user-centric and also exploring more on how the concept of tokens can be incorporated in such networks. Therefore I have a deep interest in Smart contracts, DAOs, Tokenomics and everything that ensures that there's is a right governance on the distribution of such representation of value.
 
-Currently I'm working with NodeJS, ReactJS, React Native technologies and all the tools that involve them. 🌱
+Currently I'm working with NodeJS, ReactJS, React Native technologies and to be honest I'm constantly evolving and more open to learn newer ⚡ stacks.
 
 Contact Me💻 brianlemba2@gmail.com
 
