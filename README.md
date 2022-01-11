@@ -41,6 +41,11 @@ Currently I'm working with React, TypeScript and JavaScript in building pixel-pe
 
 ## Show some ❤️ by starring some of the repositories!
 
+## 💰 Support me :
+
+<a href="https://www.buymeacoffee.com/yakumwamba" target="_blank"> 
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 38px;width: 200px; border-radius: 200px;" >
+    </a>
 
 
 
