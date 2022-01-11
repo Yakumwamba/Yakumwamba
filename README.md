@@ -1,4 +1,8 @@
-# Hi, this is Yaku 
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Yaku+here...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <!--
 **Yakumwamba/Yakumwamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
