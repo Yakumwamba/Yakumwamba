@@ -18,7 +18,9 @@ I am interested in Web3 🌍 because of my WebRTC background. I basically starte
 
 Currently I'm working with React, TypeScript and JavaScript in building pixel-perfect design, aesthetic and clean user interfaces, with focus on user experience and interaction and to be honest I'm constantly evolving and more open to learn newer ⚡ stacks.
 
-Contact Me💻 brianlemba2@gmail.com
+💬 Ask me about open source, Web3, React, TypeScript and Javascript.
+📫 How to reach me:
+      [website]https://yakuportfolio.vercel.app/
 
 [![Yaku's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&username=yakumwamba&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
