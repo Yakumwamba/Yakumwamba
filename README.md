@@ -28,7 +28,7 @@ Currently I'm working with React, TypeScript and JavaScript in building pixel-pe
 
    [website](https://yakuportfolio.vercel.app)
    
- <img src="https://activity-graph.herokuapp.com/graph?username=yakumwamba&theme=dracula&bg_color=00000000&color=22c55e&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+
 
 [![Yaku's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&username=yakumwamba&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
  
