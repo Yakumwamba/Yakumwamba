@@ -19,6 +19,7 @@ I am interested in Web3 🌍 because of my WebRTC background. I basically starte
 Currently I'm working with React, TypeScript and JavaScript in building pixel-perfect design, aesthetic and clean user interfaces, with focus on user experience and interaction and to be honest I'm constantly evolving and more open to learn newer ⚡ stacks.
 
 💬 Ask me about open source, Web3, React, TypeScript and Javascript.
+
 📫 How to reach me:
 
    [website](https://yakuportfolio.vercel.app)
