@@ -26,12 +26,12 @@ Currently I'm working with React, TypeScript and JavaScript in building pixel-pe
 
 ### 📫 How to reach me:
 
-   [website](https://yakuportfolio.vercel.app)
+     [website](https://yakuportfolio.vercel.app)
    
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using WebRTC & Svelte](https://dev.to/yaku/using-webrtc-and-svelte-3pn)
+     - [Using WebRTC & Svelte](https://dev.to/yaku/using-webrtc-and-svelte-3pn)
 <!-- BLOG-POST-LIST:END -->
  <img src="https://activity-graph.herokuapp.com/graph?username=yakumwamba&theme=dracula&bg_color=00000000&color=22c55e&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
