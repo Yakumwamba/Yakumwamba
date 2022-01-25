@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 I am a frontend developer with experience in React,Vue, Svelte, Redux, and webpack. I have a strong interest in creating performant and accessible user interfaces. I strive for well-tested code that is easy to read and maintain. In my free time, I enjoy tinkering with new technologies and learning about different cultures. 
 
-I am currently a software engineer at Resync.io and have been working with React, TypeScript and JavaScript in building pixel-perfect designs for the past two years. I have also worked with Python, MOngoDB,  and other frontend technologies. I am interested in creating performant and accessible user interfaces. My goal is to write code that is easy to read and maintain.
+I am currently a software engineer at Resync.io and have been working with React, TypeScript and JavaScript in building pixel-perfect designs for the past two years. I have also worked with Python, MongoDB,  and other backend technologies. I am interested in creating performant and accessible user interfaces. My goal is to write code that is easy to read and maintain.
 
 You can find some of my open source projects on GitHub: <link to your github repo>. 
 
