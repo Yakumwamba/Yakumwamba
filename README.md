@@ -32,6 +32,8 @@ Currently I'm working with React, TypeScript and JavaScript in building pixel-pe
 
 <!-- BLOG-POST-LIST:START -->
   - [Using WebRTC & Svelte](https://dev.to/yaku/using-webrtc-and-svelte-3pn)
+  - [15 CSS basics that will boost your designing confidence as a frontend Developer](https://dev.to/yaku/15-css-that-will-boost-your-designing-confidence-as-frontend-developer-1j55)
+  - [Svelte: A Comprehensive Guide to Developing Your App With Svelte - Part 1](https://dev.to/yaku/svelte-a-comprehensive-guide-to-developing-your-app-with-svelte-part-1-3iob)
 <!-- BLOG-POST-LIST:END -->
  <img src="https://activity-graph.herokuapp.com/graph?username=yakumwamba&theme=dracula&bg_color=00000000&color=22c55e&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
