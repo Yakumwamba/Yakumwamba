@@ -18,16 +18,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am interested in Web3 🌍 because of my WebRTC background. I basically started exploring web3 because of the interest I have in networks especially decentralized networks. I began researching on how web3 and WebRTC can be combined in order to create a more resilient network that is user-centric and also exploring more on how the concept of tokens can be incorporated in such networks. Therefore I have a deep interest in Smart contracts, DAOs, Tokenomics and everything that ensures that there's is a right governance on the distribution of such representation of value.
+I am a frontend developer with experience in React,Vue, Svelte, Redux, and webpack. I have a strong interest in creating performant and accessible user interfaces. I strive for well-tested code that is easy to read and maintain. In my free time, I enjoy tinkering with new technologies and learning about different cultures. 
 
-Currently I'm working with React, TypeScript and JavaScript in building pixel-perfect design, aesthetic and clean user interfaces, with focus on user experience and interaction and to be honest I'm constantly evolving and more open to learn newer ⚡ stacks.
+I am currently a software engineer at Resync.io and have been working with React, TypeScript and JavaScript in building pixel-perfect designs for the past two years. I have also worked with Svelte, Flutter, React Native,  and other frontend technologies. I am interested in creating performant and accessible user interfaces. My goal is to write code that is easy to read and maintain.
+
+You can find some of my open source projects on GitHub: <link to your github repo>. 
 
 💬 Ask me about open source, Web3, React, TypeScript and Javascript.
+
+If you have any questions, feel free to contact me at brianlemba2@gmail.com.
+
 
 ### 📫 Reach me : [website](https://yakuportfolio.vercel.app)
 
 
-   
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
