@@ -22,7 +22,7 @@ I am a frontend developer with experience in React, Vue, Svelte, Redux, and webp
 
 I am currently a software engineer at Resync.io and have been working with React, TypeScript and JavaScript in building pixel-perfect designs for the past two years. I have also worked with Python, MongoDB,  and other backend technologies. I am interested in creating performant and accessible user interfaces. My goal is to write code that is easy to read and maintain.
 
-You can find some of my open source projects on GitHub: <link to your github repo>. 
+You can find some of my open source projects on GitHub: https://github.com/Yakumwamba/google_webrtc_svelte. 
 
 💬 Ask me about open source, Web3, React, TypeScript and Javascript.
 
