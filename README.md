@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a frontend developer with experience in React, Vue, Svelte, Redux, and webpack. I have a strong interest in creating performant and accessible user interfaces. I strive for well-tested code that is easy to read and maintain. In my free time, I enjoy tinkering with new technologies and learning about different cultures. 
+I am passionate about frontend development, and I have a lot of experience with React, Vue, Svelte, Redux, and webpack. I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. In my free time, I love experimenting with new technologies and learning about different cultures.
 
-I am currently a software engineer at Resync.io and have been working with React, TypeScript and JavaScript in building pixel-perfect designs for the past two years. I have also worked with Python, MongoDB,  and other backend technologies. I am interested in creating performant and accessible user interfaces. My goal is to write code that is easy to read and maintain.
+I am fascinated by Web3 because of my WebRTC background. I got interested in Web3 because of my fascination with networks- not just any networks, but decentralized networks. I started researching how Web3 and WebRTC can be combined to create a more resilient network that is user-centric. I'm also interested in Tokenomics and how to make sure that there is a fair distribution of value in a system like this. 
 
-You can find some of my open source projects on GitHub: https://github.com/Yakumwamba/google_webrtc_svelte. 
+You can find some of my open source projects below:
+
+- https://github.com/Yakumwamba/google_webrtc_svelte. 
+- 
 
 💬 Ask me about open source, Web3, React, TypeScript and Javascript.
 
