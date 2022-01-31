@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am passionate about frontend development, and I have a lot of experience with React, Vue, Svelte, Redux, and webpack. I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. In my free time, I love experimenting with new technologies and learning about different cultures.
+- 🔭 I am passionate about frontend development, and I have a lot of experience with React, Vue, Svelte, Redux, and webpack.
+- 🌱 I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
+- 👯 In my free time, I love experimenting with new technologies and learning about different cultures.
 
-I am fascinated by Web 3.0 because of my WebRTC background. I got interested in Web3 because of my fascination with networks- not just any networks, but decentralized networks. I started researching how Web3 and WebRTC can be combined to create a more resilient network that is user-centric. I'm also interested in Tokenomics and how to make sure that there is a fair distribution of value in a system like this. 
+- ✨ I am fascinated by Web 3.0 because of my WebRTC background. I got interested in Web3 because of my fascination with networks- not just any networks, but    decentralized networks. I started researching how Web3 and WebRTC can be combined to create a more resilient network that is user-centric. I'm also interested in Tokenomics and how to make sure that there is a fair distribution of value in a system like this. 
 
-You can find some of my open source projects below:
+- 📫 You can find some of my open source projects below:
 
 - https://github.com/Yakumwamba/google_webrtc_svelte. 
+- 
 - 
 
 💬 Ask me about open source, Web 3.0, React, TypeScript and Javascript.
