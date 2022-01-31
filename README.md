@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- � I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,24 +18,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am passionate about frontend development, and I have a lot of experience with React, Vue, Svelte, Redux, and webpack.
-- 🌱 I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
-- 👯 In my free time, I love experimenting with new technologies and learning about different cultures.
 
-- ✨ I am fascinated by Web 3.0 because of my WebRTC background. I got interested in Web3 because of my fascination with networks- not just any networks, but    decentralized networks. I started researching how Web3 and WebRTC can be combined to create a more resilient network that is user-centric. I'm also interested in Tokenomics and how to make sure that there is a fair distribution of value in a system like this. 
+I am fascinated by 🌎 Web 3.0 because of my WebRTC background. I got interested in Web 3.0 because of my fascination with networks 🕸️ - not just any networks, but  decentralized networks. I begun researching how Web 3.0 and WebRTC can be combined to create a more resilient network that is user-centric. I'm also interested in Tokenomics and how to make sure that there is a fair distribution of value in a system like this.  
 
-- 📫 You can find some of my open source projects below:
+🌎 I am passionate about Frontend development, and I have experience with React, Vue, Svelte, Redux, and webpack.
+🌱 I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
+👯 In my free time, I love experimenting with new technologies and learning about different cultures.
+
+
+ 📫 You can find some of my open source projects below:
 
 - https://github.com/Yakumwamba/google_webrtc_svelte. 
-- 
-- 
+
+🎯 My goal this year is to spend more time understanding video streaming technology and ways in which the Web can be utilized as a plartform for this.
 
 💬 Ask me about open source, Web 3.0, React, TypeScript and Javascript.
 
 If you have any questions, feel free to contact me at brianlemba2@gmail.com or visit my site [website](https://yakuportfolio.vercel.app)
 
 
-### 📕 Latest Blog Posts
+### 📕 My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
   - [15 CSS basics that will boost your designing confidence as a frontend Developer](https://dev.to/yaku/15-css-that-will-boost-your-designing-confidence-as-frontend-developer-1j55)
