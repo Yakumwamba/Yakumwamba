@@ -19,12 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am fascinated by 🌎 Web 3.0 because of my WebRTC background. I got interested in Web 3.0 because of the excitment I have for networks 🕸️ - not just any networks, but  decentralized networks. I begun researching how Web 3.0 and WebRTC can be combined to create a more resilient network that is user-centric. I'm passionate about  Blockchains & Tokenomics and how to make sure that there is a fair distribution of value in a system like this.  
+I am fascinated by 🌎 Web 3.0 because of my WebRTC background. I got interested in Web 3.0 because of the excitment I have for networks 🕸️ - not just any networks, but  decentralized networks. I begun researching how Web 3.0 and WebRTC can be combined to create a more resilient network that is user-centric. I'm passionate about  Blockchains, DAOs & Tokenomics and how to make sure that there is a fair distribution of value in a system like this.  
 
 I am passionate about Frontend development, and I have experience with React, Vue, Svelte, Redux, and webpack.
 🌱 I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
 👯 In my free time, I love experimenting with new technologies and learning about different cultures.
 
+Im currently developing a Play-to-Earn NFT Game on Solana Blockchain, for more details follow my Devlog on Twiiter or Discord
+- https://twitter.com/brianlemba
+- https://discord.gg/7Ezzc2Pk
 
  📫 You can find some of my open source projects below:
 
