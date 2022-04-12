@@ -37,7 +37,7 @@ I am more interested in working on frontend projects because of the vast experie
 
 
 ### Web3 Engineer
- During the past 2 years I have learnt quiet a lot about Smart Contract development and the blockchain in general. I have listed Some of the tools I have found to be  more comfortable for me to use during the development process are:
+ During the past 2 years I have learnt quiet a lot about Smart Contract development and the blockchain in general. I have listed Some of the tools I have found to be  more comfortable for me to use during the development process:
  
   - Truffle 🎂
   - Hardhat 👷🏻
