@@ -44,7 +44,7 @@ I am more interested in working on frontend projects because of the vast experie
   - Remix 🎧
   - Ganache - one click Blockchain 🖱️
   - Solidity/Rust 🦀 I Learnt about Rust when I was implementing my own [Substrate](https://substrate.io/) blockchain for testing so im a nooby 😢
-  - Ethers.js/Hether.js 🍭 Hether.js is useed in deploying and interacting with smart contracts on the [Hedera network](https://hedera.com/) 
+  - Ethers.js/Hether.js 🍭 Hether.js is used in deploying and interacting with smart contracts on the [Hedera network](https://hedera.com/).
   
   So far with this knowledge I have been able to create:
   
