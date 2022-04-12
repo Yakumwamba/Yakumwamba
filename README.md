@@ -49,7 +49,7 @@ I am more interested in working on frontend projects because of the vast experie
   So far with this knowledge I have been able to create:
   
     - 🪙 Tokens
-    - 🎨 FTs 
+    - 🎨 NFTs 
     - 🌐 DAOs
     - 💱 DEXs
     - 📈 Swaps
