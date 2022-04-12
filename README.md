@@ -39,6 +39,8 @@ Im currently developing a Play-to-Earn NFT Game on Solana Blockchain, for more d
 
 If you have any questions, feel free to contact me at brianlemba2@gmail.com or visit my site [website](https://yakuportfolio.vercel.app)
 
+### Hackathons
+- [NFT Pattern detection tool](https://devpost.com/software/nft-pattern-detection-automation)
 
 ### 📕 My latest blog posts
 
