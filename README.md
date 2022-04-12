@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am fascinated by 🌎 Web 3. I'm actively researching how to use Web3 to create more decentralized applications that gives power to the user. I'm passionate about Blockchains, DAOs & Tokenomics.  
+Hi, thanks for coming by, I am a Fullstack developer currently working on Web3 applications (Dapps). I'm actively researching how to use Web3 to create more decentralized applications that gives power to the user. I'm passionate about Blockchains, DAOs & Tokenomics.  
 
 I am more interested in working on frontend projects because of the vast experience I have with 
 
@@ -32,27 +32,53 @@ I am more interested in working on frontend projects because of the vast experie
 - Svelte, 
 - Redux, and webpack.
 - 
-🌱 I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
-👯 In my free time, I love experimenting with new technologies and learning about different cultures.
+ I am always looking 👁️👁️ for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
+ In my free time, I love experimenting with new technologies and learning about different cultures.
 
-Im currently developing a Play-to-Earn NFT Game on Solana Blockchain, for more details follow my Devlog on Twiiter or Discord
-- https://twitter.com/brianlemba
-- https://discord.gg/7Ezzc2Pk
 
- 📫 You can find some of my open source projects below:
+### Web3 Engineer
+ During the past 2 years I have learnt quiet a lot about Smart Contract development and the blockchain in general. I have listed Some of the tools I have found to be  more comfortable for me to use during the development process are : 
+ 
+  - Truffle 🎂
+  - Hardhat 👷🏻
+  - Remix 🎧
+  - Ganache - one click Blockchain 🖱️
+  - Solidity/Rust 🦀 I Learnt about Rust when I was implementing my own [Substrate](https://substrate.io/) blockchain for testing so im a nooby 😢
+  - Ethers.js/Hether.js 🍭 Hether.js is useed in deploying and interacting with smart contracts on the [Hedera network](https://hedera.com/) 
+  
+  So far with this knowledge I have been able to create:
+  
+    - 🪙 Tokens
+    - 🎨 FTs 
+    - 🌐 DAOs
+    - 💱 DEXs
+    - 📈 Swaps
+      🚜 Yield Farming protocols for Web3 games 🕹️
+  
+  
+### Side Projects
 
-- https://github.com/Yakumwamba/google_webrtc_svelte. 
+1. Play-to-Earn NFT 🕹️ Game on Solana Blockchain - coming soon
+   Im currently part of a team creating a low transaction gas fee NFT game that will be launched on Solana Blockchain. To stay up to date about the whole project      kindly follow me on twitter or you could drop in our discord channel.
+  - https://twitter.com/brianlemba
+  - https://discord.gg/7Ezzc2Pk 
+  
+2. Google WebRTC Mini Projects
+    This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
+    I have a repo where you can test it out 👇
+    https://github.com/Yakumwamba/google_webrtc_svelte. 
 
-🎯 My goal this year is to spend more time understanding video streaming technology and ways in which the Web can be utilized as a plartform for this.
+3. NFT Analytics Dashboard 🔥🔥 - [Live]("")
+  - This one is fire, with all the hype about NFTs its easier to loose track of which projects are worth investing in. To solve that problem here is a dashboard that   shows what kind of NFTs are Trending in real-time  and gives unique insights on the NFTs of interest by using Machine Learning and Natural Language Processing.
+  - Currently trying to add different types of Social Media content sources that can be manually parsed through pre-trainned AI models to give predictive features to the Analytics Dashboard. This is a potential mechanical Trading tool for anyone looking to have a deeper look about how various Non-Fungible Tokens (NFTs) will evolve over time as influenced by Social Media influencers. 
 
-💬 Ask me about open source, Web 3.0, React, TypeScript and Javascript.
-
-If you have any questions, feel free to contact me at brianlemba2@gmail.com or visit my site [website](https://yakuportfolio.vercel.app)
+  If you have any questions, feel free to contact me at brianlemba2@gmail.com or visit my site [website](https://yakuportfolio.vercel.app)
 
 ### Hackathons
 - [NFT Pattern detection tool](https://devpost.com/software/nft-pattern-detection-automation)
-
-### 📕 My latest blog posts
+- [CoffeeMe] (")
+- 
+### 📕 Blogs
 
 <!-- BLOG-POST-LIST:START -->
   - [15 CSS basics that will boost your designing confidence as a frontend Developer](https://dev.to/yaku/15-css-that-will-boost-your-designing-confidence-as-frontend-developer-1j55)
@@ -65,6 +91,8 @@ If you have any questions, feel free to contact me at brianlemba2@gmail.com or v
  
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 
+
+💬 Ask me about open source, Web 3.0, React, TypeScript and Javascript.
 ## Show some ❤️ by starring some of the repositories!
 
 <a href="https://www.buymeacoffee.com/yakumwamba" target="_blank"> 
