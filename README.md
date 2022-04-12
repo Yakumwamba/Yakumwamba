@@ -69,7 +69,7 @@ I am more interested in working on frontend projects because of the vast experie
     https://github.com/Yakumwamba/google_webrtc_svelte. 
 
 3. NFT Analytics Dashboard 🔥🔥 - [Live]("")
-    This one is fire, with all the hype about NFTs its easier to loose track of which projects are worth investing in. To solve that problem here is a dashboard that       shows what kind of NFTs are Trending in real-time  and gives unique insights on the NFTs of interest by using Machine Learning and Natural Language Processing.
+    With all the hype about NFTs its easier to loose track of which projects are worth investing in. To solve that problem here is a dashboard that       shows what       kind of NFTs are Trending in real-time  and gives unique insights on the NFTs of interest by using Machine Learning and Natural Language Processing.
     Currently trying to add different types of Social Media content sources that can be manually parsed through pre-trainned AI models to give predictive features to       the Analytics Dashboard. This is a potential mechanical Trading tool for anyone looking to have a deeper look about how various Non-Fungible Tokens (NFTs) will         evolve over time as influenced by Social Media influencers. 
 
   If you have any questions, feel free to contact me at brianlemba2@gmail.com or visit my site [website](https://yakuportfolio.vercel.app)
