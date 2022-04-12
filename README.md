@@ -19,9 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am fascinated by 🌎 Web 3. I begun researching how to use Web3 to create more resilient networks that are user-centric. I'm passionate about Blockchains, DAOs & Tokenomics.  
+I am fascinated by 🌎 Web 3. I'm actively researching how to use Web3 to create more decentralized applications that gives power to the user. I'm passionate about Blockchains, DAOs & Tokenomics.  
 
-I am more interested in working on frontend projects because vast experience with React, Vue, Svelte, Redux, and webpack.
+I am more interested in working on frontend projects because of the vast experience I have with 
+
+- TypeScript 
+- JavaScript, 
+- React,
+- React Native,
+- Flutter, 
+- Vue, 
+- Svelte, 
+- Redux, and webpack.
+- 
 🌱 I am always looking for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
 👯 In my free time, I love experimenting with new technologies and learning about different cultures.
 
