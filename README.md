@@ -71,6 +71,7 @@ I am more interested in working on frontend projects because of the vast experie
      You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
      
      ![image](https://user-images.githubusercontent.com/72974932/165003419-97d6ae51-2fe4-47ad-8c93-5d509ed2572a.png)
+     
      Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
 
