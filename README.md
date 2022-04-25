@@ -94,8 +94,7 @@ I am more interested in working on frontend projects because of the vast experie
 
 ### Hackathons
 - [NFT Pattern detection tool](https://devpost.com/software/nft-pattern-detection-automation)
-- [CoffeeMe] (")
-- 
+ 
 ### 📕 Blogs
 
 <!-- BLOG-POST-LIST:START -->
