@@ -58,20 +58,35 @@ I am more interested in working on frontend projects because of the vast experie
   
 ### Side Projects
 
-1. Play-to-Earn NFT 🕹️ Game on Solana Blockchain - coming soon
+
+1. - The TheTangibleLife dapp allows uploading of videos and generates embed codes such that the videos are streamed only for NFT holders.
+   - These embed codes that can be easily embedded into any website or mobile app.
+   - Web developers can simply copy/paste these codes into their html codes in their favorite editor or within their CMS (ex: WordPress).
+   - The websites where the dapp/widget runs will allow Theta video streaming only for holders of membership (utility) NFTs purchased on the Theta network.
+   - In other words, the main mechanism is NFT serving as membership token to enable display/streaming of videos.
+   - For example, consider a process that is progressing, such as levels in a game, and guiding videos for making it to the next level are displayed only to holders of      a certain NFT.
+   - The simple big idea is using a simple code snippet that can be embedded into any html page, and streaming videos only if the NFT is stored in the user's connected       wallet.
+   - Currently, such a code snippet (embed code) can be generated through ThetaVideoAPI, but the connection to ThetaDrop wallet is not possible, hence the need for a        dapp like TheTangibleLife.
+     
+     You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
+     
+     ![image](https://user-images.githubusercontent.com/72974932/165003419-97d6ae51-2fe4-47ad-8c93-5d509ed2572a.png)
+     Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
+
+
+2. Play-to-Earn NFT 🕹️ Game on Solana Blockchain - coming soon
    Im currently part of a team creating a low transaction gas fee NFT game that will be launched on Solana Blockchain. To stay up to date about the whole project      kindly follow me on twitter or you could drop in our discord channel.
   - https://twitter.com/brianlemba
   - https://discord.gg/7Ezzc2Pk 
   
-2. Google WebRTC Mini Projects
+3. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
 
-3. NFT Analytics Dashboard 🔥🔥 - [Live]("")
+4. NFT Analytics Dashboard 🔥🔥 - [Live]("")
     With all the hype about NFTs its easier to loose track of which projects are worth investing in. To solve that problem here is a dashboard that       shows what       kind of NFTs are Trending in real-time  and gives unique insights on the NFTs of interest by using Machine Learning and Natural Language Processing.
     Currently trying to add different types of Social Media content sources that can be manually parsed through pre-trainned AI models to give predictive features to       the Analytics Dashboard. This is a potential mechanical Trading tool for anyone looking to have a deeper look about how various Non-Fungible Tokens (NFTs) will         evolve over time as influenced by Social Media influencers. 
-
   If you have any questions, feel free to contact me at brianlemba2@gmail.com or visit my site [website](https://yakuportfolio.vercel.app)
 
 ### Hackathons
