@@ -61,11 +61,12 @@ I am more interested in working on frontend projects because of the vast experie
 1. Planet X
 
    Cryptocurrency-based Betting Platform  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+   
    ![image](https://user-images.githubusercontent.com/72974932/167505815-9c52b6e1-eb8f-4e87-9fec-29922e76af47.png)
    
    Demo  [Planet X](https://neo-blockchain-betx.vercel.app/)
    
-2. - The TheTangibleLife dapp allows uploading of videos and generates embed codes such that the videos are streamed only for NFT holders.
+2.  TheTangibleLife - Digital Rights Management Dapp.
    
      You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
      
@@ -75,7 +76,9 @@ I am more interested in working on frontend projects because of the vast experie
 
 
 3. Play-to-Earn NFT 🕹️ Game on Solana Blockchain - coming soon
+
    Im currently part of a team creating a low transaction gas fee NFT game that will be launched on Solana Blockchain. To stay up to date about the whole project      kindly follow me on twitter or you could drop in our discord channel.
+   
   - https://twitter.com/brianlemba
   - https://discord.gg/7Ezzc2Pk 
   
