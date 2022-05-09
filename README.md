@@ -64,14 +64,7 @@ I am more interested in working on frontend projects because of the vast experie
    Check out it our here [Planet X](https://neo-blockchain-betx.vercel.app/)
    
 2. - The TheTangibleLife dapp allows uploading of videos and generates embed codes such that the videos are streamed only for NFT holders.
-   - These embed codes that can be easily embedded into any website or mobile app.
-   - Web developers can simply copy/paste these codes into their html codes in their favorite editor or within their CMS (ex: WordPress).
-   - The websites where the dapp/widget runs will allow Theta video streaming only for holders of membership (utility) NFTs purchased on the Theta network.
-   - In other words, the main mechanism is NFT serving as membership token to enable display/streaming of videos.
-   - For example, consider a process that is progressing, such as levels in a game, and guiding videos for making it to the next level are displayed only to holders of      a certain NFT.
-   - The simple big idea is using a simple code snippet that can be embedded into any html page, and streaming videos only if the NFT is stored in the user's connected       wallet.
-   - Currently, such a code snippet (embed code) can be generated through ThetaVideoAPI, but the connection to ThetaDrop wallet is not possible, hence the need for a        dapp like TheTangibleLife.
-     
+   
      You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
      
      ![image](https://user-images.githubusercontent.com/72974932/165003419-97d6ae51-2fe4-47ad-8c93-5d509ed2572a.png)
