@@ -84,8 +84,11 @@ I am more interested in working on frontend projects because of the vast experie
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
+   
 
-
+4. Planet X
+   This is a crypto currency Esports Betting platform  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+   ![image](https://user-images.githubusercontent.com/72974932/167505815-9c52b6e1-eb8f-4e87-9fec-29922e76af47.png)
   If you have any questions, feel free to contact me at brianlemba2@gmail.com
 
 
