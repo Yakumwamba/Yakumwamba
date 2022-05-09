@@ -58,8 +58,12 @@ I am more interested in working on frontend projects because of the vast experie
   
 ### Side Projects
 
-
-1. - The TheTangibleLife dapp allows uploading of videos and generates embed codes such that the videos are streamed only for NFT holders.
+1. Planet X
+   This is a crypto currency Esports Betting platform  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+   ![image](https://user-images.githubusercontent.com/72974932/167505815-9c52b6e1-eb8f-4e87-9fec-29922e76af47.png)
+   Check out it our here [Planet X](https://neo-blockchain-betx.vercel.app/)
+   
+2. - The TheTangibleLife dapp allows uploading of videos and generates embed codes such that the videos are streamed only for NFT holders.
    - These embed codes that can be easily embedded into any website or mobile app.
    - Web developers can simply copy/paste these codes into their html codes in their favorite editor or within their CMS (ex: WordPress).
    - The websites where the dapp/widget runs will allow Theta video streaming only for holders of membership (utility) NFTs purchased on the Theta network.
@@ -75,21 +79,17 @@ I am more interested in working on frontend projects because of the vast experie
      Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
 
-2. Play-to-Earn NFT 🕹️ Game on Solana Blockchain - coming soon
+3. Play-to-Earn NFT 🕹️ Game on Solana Blockchain - coming soon
    Im currently part of a team creating a low transaction gas fee NFT game that will be launched on Solana Blockchain. To stay up to date about the whole project      kindly follow me on twitter or you could drop in our discord channel.
   - https://twitter.com/brianlemba
   - https://discord.gg/7Ezzc2Pk 
   
-3. Google WebRTC Mini Projects
+4. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
    
 
-4. Planet X
-   This is a crypto currency Esports Betting platform  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
-   ![image](https://user-images.githubusercontent.com/72974932/167505815-9c52b6e1-eb8f-4e87-9fec-29922e76af47.png)
-   Check out it our here [Planet X](https://neo-blockchain-betx.vercel.app/)
    
   If you have any questions, feel free to contact me at brianlemba2@gmail.com
 
