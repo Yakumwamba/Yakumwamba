@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### About Me 🐓
 Hi, thanks for coming by, I am a Fullstack developer currently working on Web3 applications (Dapps). I'm actively researching how to use Web3 to create more decentralized applications that gives power to the user. I'm passionate about Blockchains, DAOs & Tokenomics.  
 
-I am more interested in working on frontend projects because of the vast experience I have with 
+I am more interested in working on frontend projects because of my experience I have with 
 
 - TypeScript 
 - JavaScript, 
