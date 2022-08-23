@@ -35,28 +35,7 @@ I am more interested in working on frontend projects because of the vast experie
  I am always looking 👁️👁️ for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
  In my free time, I love experimenting with new technologies and learning about different cultures.
 
-
-### Web3 Engineer
- During the past 2 years I have learnt quiet a lot about Smart Contract development and the blockchain in general. I have listed Some of the tools I have found to be  more comfortable for me to use during the development process:
- 
-  - Truffle 🎂
-  - Hardhat 👷🏻
-  - Remix 🎧
-  - Ganache - one click Blockchain 🖱️
-  - Solidity/Rust 🦀 I Learnt about Rust when I was implementing my own [Substrate](https://substrate.io/) blockchain for testing so im a nooby 😢
-  - Ethers.js/Hether.js 🍭 Hether.js is used in deploying and interacting with smart contracts on the [Hedera network](https://hedera.com/).
-  
-  So far with this knowledge I have been able to create:
-  
-    - 🪙 Tokens
-    - 🎨 NFTs 
-    - 🌐 DAOs
-    - 💱 DEXs
-    - 📈 Swaps
-      🚜 Yield Farming protocols for Web3 games 🕹️
-  
-  
-### Side Projects
+### Projects
 
 1. Planet X
 
@@ -74,20 +53,11 @@ I am more interested in working on frontend projects because of the vast experie
      
      Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
-
-3. Play-to-Earn NFT 🕹️ Game on Solana Blockchain - coming soon
-
-   Im currently part of a team creating a low transaction gas fee NFT game that will be launched on Solana Blockchain. To stay up to date about the whole project      kindly follow me on twitter or you could drop in our discord channel.
-   
-  - https://twitter.com/brianlemba
-  - https://discord.gg/7Ezzc2Pk 
-  
-4. Google WebRTC Mini Projects
+3. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
    
-
    
   If you have any questions, feel free to contact me at brianlemba2@gmail.com
 
