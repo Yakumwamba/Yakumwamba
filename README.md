@@ -35,7 +35,7 @@ I am more interested in working on frontend projects because of my experience I 
  I am always looking 👁️👁️ for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
  In my free time, I love experimenting with new technologies and learning about different cultures.
 
-### Projects
+### Projects - [DevPost](https://devpost.com/Yakumwamba) Porfolio
 
 1. Planet X - (Hackathon Project)
 
