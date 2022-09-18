@@ -37,7 +37,7 @@ I am more interested in working on frontend projects because of my experience I 
 
 ### Projects
 
-1. Planet X
+1. Planet X - (Hackathon Project)
 
    Cryptocurrency-based Betting Platform  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
    
