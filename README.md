@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### About Me 🐓
 Hi, thanks for coming by, I am a Fullstack developer currently working on Web3 applications (Dapps). I'm actively researching how to use Web3 to create more decentralized applications that gives power to the user. I'm passionate about Blockchains, DAOs & Tokenomics.  
 
-I am more interested in working on frontend projects because of the experience I have with 
+I am so interested in UI/UX projects because of the experience I have with 
 
 - TypeScript 
 - JavaScript, 
@@ -37,8 +37,9 @@ I am more interested in working on frontend projects because of the experience I
 - Svelte, 
 - Redux, and webpack.
 
- I am always looking 👁️👁️ for new ways to improve the user experience, and I focus on well-tested and maintainable code. 
- In my free time, I love experimenting with new technologies and learning about different cultures.
+ I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
+ In my free time, I love experimenting with new technologies and learning about different cultures and if you would like to have a chat on 
+ anything else you can reach me out on [Twitter](https://twitter.com/brianlemba). 
 
 ### Projects - [DevPost](https://devpost.com/Yakumwamba) Porfolio
 
@@ -65,12 +66,12 @@ I am more interested in working on frontend projects because of the experience I
     https://github.com/Yakumwamba/google_webrtc_svelte. 
    
    
-  If you have any questions, feel free to contact me at brianlemba2@gmail.com
+  If you have any questions, feel free to reach out to me via  [Twitter](https://twitter.com/brianlemba) or mail  [Mail](https://yakumwamba@gmail.com). 
 
 
 
 ### Hackathons
-- [NFT Pattern detection tool](https://devpost.com/software/nft-pattern-detection-automation)
+- I havent participated in any hackthon of late but you can check my de
  
 ### 📕 Blogs
 
