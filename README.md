@@ -71,7 +71,7 @@ I am so interested in UI/UX projects because of the experience I have with
 
 
 ### Hackathons
-- I havent participated in any hackthon of late but you can check my de
+- I havent participated in any hackthon of late but you can check my [DevPost](https://devpost.com/Yakumwamba) for future hackathons I will participate in. 
  
 ### 📕 Blogs
 
