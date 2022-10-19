@@ -43,16 +43,7 @@ I am so interested in UI/UX projects because of the experience I have with
 
 ### Projects - [DevPost](https://devpost.com/Yakumwamba) Porfolio
 
-1. Planet X - (Hackathon Project)
-
-   Cryptocurrency-based Betting Platform  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
-   
-![Screenshot 2022-09-20 at 22 54 39](https://user-images.githubusercontent.com/72974932/191544954-2d8c8af0-f794-48ad-9471-2f8bd82a3eb2.png)
-
-   
-   Demo  [Planet X](https://neo-blockchain-betx.vercel.app/)
-   
-2.  TheTangibleLife - Digital Rights Management Dapp.
+1.  TheTangibleLife - Digital Rights Management Dapp.
    
      You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
      
@@ -60,7 +51,7 @@ I am so interested in UI/UX projects because of the experience I have with
      
      Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
-3. Google WebRTC Mini Projects
+2. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
