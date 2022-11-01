@@ -1,4 +1,4 @@
-Brian Lemba
+### Brian Lemba
 
 | E-Mail | brianlemba2@gmail.com | | Website | yakumwamba.com | | Blog | dev.to/yaku | | LinkedIn | linkedin.com/in/brianlemba | | Twitter | twitter.com/brianlemba |
 
@@ -7,6 +7,12 @@ Brian Lemba
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+😀;nice+to+meet+you+🎉;&center=true&size=30">
   </a>
 </h1>
+
+# Full-Stack Blockchain Developer 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+## About Me
 
 - 10+ years in software dev
 - Full stack web developer for about 5+ years (React, TypeScript, Redux, psql, mongo, nodejs, Linux, DevOps)
@@ -57,7 +63,7 @@ In my free time, I love experimenting with new technologies and  do technical [W
 💬 Ask me about open source, Web 3.0, React, TypeScript and Javascript.
 ## Show some ❤️ by starring some of the repositories!
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <a href="https://www.buymeacoffee.com/yakumwamba" target="_blank"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 38px;width: 200px; border-radius: 200px;" >
