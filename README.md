@@ -1,47 +1,24 @@
+Brian Lemba
+
+| E-Mail | brianlemba2@gmail.com | | Website | yakumwamba.com | | Blog | dev.to/yaku | | LinkedIn | linkedin.com/in/brianlemba | | Twitter | twitter.com/brianlemba |
+
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+😀;nice+to+meet+you+🎉;&center=true&size=30">
   </a>
 </h1>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+- 10+ years in software dev
+- Full stack web developer for about 5+ years (React, TypeScript, Redux, psql, mongo, nodejs, Linux, DevOps)
+- Developed dApps for over 15+ Web3/Blockchain Hackathons using (Solidity, Rust, Go and Python).
+- Worked as Mobile App developer for about 2 years using (Flutter, React Native and Native Android).
+- Mainly developed Cross-Platform apps (Music Streaming, Video Streaming apps)
+- Co-Founded a web3 Startup PlanetX.
 
+I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
+In my free time, I love experimenting with new technologies and  do technical [Writing](https://dev.to/yaku). I enjoy learning about   different cultures and feel free to chat me on [Twitter](https://twitter.com/brianlemba). 
 
-
-
-<!--
-**Yakumwamba/Yakumwamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- � I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### About Me 🐓
-Hi, thanks for coming by, I am a Fullstack developer currently working on Web3 applications (Dapps). I'm actively researching how to use Web3 to create more decentralized applications that gives power to the user. I'm passionate about Blockchains, DAOs & Tokenomics.  
-
-I am so interested in UI/UX projects because of the experience I have with 
-
-- TypeScript 
-- JavaScript, 
-- React,
-- React Native,
-- Flutter, 
-- Vue, 
-- Svelte, 
-- Redux, and webpack.
-
- I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
- In my free time, I love experimenting with new technologies and learning about different cultures and if you would like to have a chat on 
- anything else you can reach me out on [Twitter](https://twitter.com/brianlemba). 
-
-### Projects - [DevPost](https://devpost.com/Yakumwamba) Porfolio
+### Projects and Code Examples- [DevPost](https://devpost.com/Yakumwamba) Porfolio
 
 1.  TheTangibleLife - Digital Rights Management Dapp.
    
@@ -58,7 +35,6 @@ I am so interested in UI/UX projects because of the experience I have with
    
    
   If you have any questions, feel free to reach out to me via  [Twitter](https://twitter.com/brianlemba) or mail  [Mail](https://yakumwamba@gmail.com). 
-
 
 
 ### Hackathons
@@ -80,6 +56,8 @@ I am so interested in UI/UX projects because of the experience I have with
 
 💬 Ask me about open source, Web 3.0, React, TypeScript and Javascript.
 ## Show some ❤️ by starring some of the repositories!
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <a href="https://www.buymeacoffee.com/yakumwamba" target="_blank"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 38px;width: 200px; border-radius: 200px;" >
