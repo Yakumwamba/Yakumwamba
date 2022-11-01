@@ -17,6 +17,7 @@
 
 
 
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## About Me
@@ -37,7 +38,7 @@ In my free time, I love experimenting with new technologies and  do technical [W
    
      You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
      
-     ![image](https://user-images.githubusercontent.com/72974932/165003419-97d6ae51-2fe4-47ad-8c93-5d509ed2572a.png)
+   ![Screenshot 2022-11-01 at 11 02 50](https://user-images.githubusercontent.com/72974932/199198375-17912d36-b083-498b-af97-1f64658e2dd7.png)
      
      Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
