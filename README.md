@@ -7,7 +7,7 @@
 
  ### Brian Lemba
 
-| E-Mail | brianlemba2@gmail.com | | Website | yakumwamba.com | | Blog | dev.to/yaku | | LinkedIn | linkedin.com/in/brianlemba | | Twitter | twitter.com/brianlemba |
+| E-Mail | brianlemba2@gmail.com | [Website](https://yakumwamba.com) | [Blog](https://dev.to/yaku)| | [LinkedIn](https://linkedin.com/in/brianlemba) | [Twitter](https://twitter.com/brianlemba) |
 
 <h1 align="center">
   <a href="#">
@@ -26,7 +26,7 @@
 - Developed dApps for over 15+ Web3/Blockchain Hackathons using (Solidity, Rust, Go and Python).
 - Worked as Mobile App developer for about 2 years using (Flutter, React Native and Native Android).
 - Mainly developed Cross-Platform apps (Music Streaming, Video Streaming apps)
-- Co-Founded a web3 Startup PlanetX.
+- Co-Founded a web3 Startup.
 
 I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
 In my free time, I love experimenting with new technologies and  do technical [Writing](https://dev.to/yaku). I enjoy learning about   different cultures and feel free to chat me on [Twitter](https://twitter.com/brianlemba). 
