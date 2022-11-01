@@ -5,7 +5,11 @@
 # Full-Stack Blockchain Developer
 </p>
 
-<font size="5" face="Comic sans MS"> Font Tag with size 5 and face "Comic san MS". </font> 
+<font size="5" face="Comic sans MS"> 
+  
+  Font Tag with size 5 and face "Comic san MS". 
+
+</font> 
 | E-Mail | brianlemba2@gmail.com | | Website | yakumwamba.com | | Blog | dev.to/yaku | | LinkedIn | linkedin.com/in/brianlemba | | Twitter | twitter.com/brianlemba |
 
 <h1 align="center">
