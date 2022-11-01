@@ -4,9 +4,9 @@
 <p align="center" s>
 <h1>Full-Stack Blockchain Developer</h1>
 </p>
-<center>
-  ### Brian Lemba
-</center>
+
+ ### Brian Lemba
+
 | E-Mail | brianlemba2@gmail.com | | Website | yakumwamba.com | | Blog | dev.to/yaku | | LinkedIn | linkedin.com/in/brianlemba | | Twitter | twitter.com/brianlemba |
 
 <h1 align="center">
