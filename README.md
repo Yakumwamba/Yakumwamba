@@ -40,7 +40,7 @@ In my free time, I love experimenting with new technologies and  do technical [W
      
    ![Screenshot 2022-11-01 at 11 02 50](https://user-images.githubusercontent.com/72974932/199198375-17912d36-b083-498b-af97-1f64658e2dd7.png)
      
-     Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
+  Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
 2. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
