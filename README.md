@@ -1,3 +1,4 @@
+<p style="text-align: center;"># Full-Stack Blockchain Developer </p>
 ### Brian Lemba
 
 | E-Mail | brianlemba2@gmail.com | | Website | yakumwamba.com | | Blog | dev.to/yaku | | LinkedIn | linkedin.com/in/brianlemba | | Twitter | twitter.com/brianlemba |
@@ -8,7 +9,7 @@
   </a>
 </h1>
 
-# Full-Stack Blockchain Developer 
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
