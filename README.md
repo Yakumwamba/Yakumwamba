@@ -7,7 +7,7 @@
 
  ### Brian Lemba
 
-| [E-Mail](brianlemba2@gmail.com) | [Website](https://yakumwamba.com) | [Blog](https://dev.to/yaku) | [LinkedIn](https://linkedin.com/in/brianlemba) | [Twitter](https://twitter.com/brianlemba) |
+| [E-Mail](brianlemba2@gmail.com) | [Website](https://yakumwamba.com) | [Blog](https://dev.to/yaku) | [LinkedIn](https://linkedin.com/in/brianlemba) | [Twitter](https://twitter.com/codewithYaku) |
 
 <h1 align="center">
   <a href="#">
