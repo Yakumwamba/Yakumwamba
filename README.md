@@ -27,7 +27,7 @@
 - Developed dApps for over 15+ Web3/Blockchain Hackathons using (Solidity, Rust, Go and Python).
 - Worked as Mobile App developer for about 2 years using (Flutter, React Native and Native Android).
 - Mainly developed Cross-Platform apps (Music Streaming, Video Streaming apps)
-- Developed an AI dapp [**AiArtNFT Dapp**](https://www.aiartnft.app/) is running live on the cloud.
+- Developed an AI dapp [**AiArtNFT Dapp**](https://www.aiartnft.app/) running live on the cloud.
 
 I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
 In my free time, I love experimenting with new technologies and  do technical [Writing](https://dev.to/yaku). I enjoy learning about   different cultures and feel free to chat me on [Twitter](https://twitter.com/brianlemba). 
