@@ -34,7 +34,13 @@ In my free time, I love experimenting with new technologies and  do technical [W
 
 ### Projects and Code Examples- [DevPost](https://devpost.com/Yakumwamba) Porfolio
 
-1.  TheTangibleLife - Digital Rights Management Dapp.
+
+
+1.   AiArtNFT.app is an NFT marketplace with built-in Generative AI system, that generates art from text, using OpenAI's DALL-E API, and enables the    selection of the generated image and immediate placement of that image into an NFT marketplace.
+![AiArtNFT Logo](./doc/img/logo.png) 
+Novelty is that, while it is possible to find many text-to-image generation web services and many NFT marketplaces, to the best of our knowledge, there are only two Web 3 dApps, as hackathon projects that integrate AI art generation with NFT marketplace.
+
+2.  TheTangibleLife - Digital Rights Management Dapp.
    
      You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
      
@@ -42,7 +48,7 @@ In my free time, I love experimenting with new technologies and  do technical [W
      
   Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
-2. Google WebRTC Mini Projects
+3. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
