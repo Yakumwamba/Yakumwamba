@@ -40,15 +40,8 @@ In my free time, I love experimenting with new technologies and  do technical [W
 
   Novelty is that, while it is possible to find many text-to-image generation web services and many NFT marketplaces, to the best of our knowledge, 	there   are only two Web 3 dApps, as hackathon projects that integrate AI art generation with NFT marketplace. This project is Open source and you 	can check it   out 👉 [Source Code](https://github.com/Yakumwamba/xrp-generative-art/).
 
-2.  TheTangibleLife - Digital Rights Management Dapp.
-   
-     You can check out the project details for the Hackathon here [TheTangibleLife](https://devpost.com/software/thetangiblelife)
-     
-   ![Screenshot 2022-11-01 at 11 02 50](https://user-images.githubusercontent.com/72974932/199198375-17912d36-b083-498b-af97-1f64658e2dd7.png)
-     
-  Demo [TheTangible Dapp](https://theta-wallet-connect.vercel.app/)
 
-3. Google WebRTC Mini Projects
+2. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
