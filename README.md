@@ -27,14 +27,12 @@
 - Developed dApps for over 15+ Web3/Blockchain Hackathons using (Solidity, Rust, Go and Python).
 - Worked as Mobile App developer for about 2 years using (Flutter, React Native and Native Android).
 - Mainly developed Cross-Platform apps (Music Streaming, Video Streaming apps)
-- Co-Founded a web3 Startup.
+- Developed an AI dapp [**AiArtNFT Dapp**](https://www.aiartnft.app/) is running live on the cloud.
 
 I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
 In my free time, I love experimenting with new technologies and  do technical [Writing](https://dev.to/yaku). I enjoy learning about   different cultures and feel free to chat me on [Twitter](https://twitter.com/brianlemba). 
 
 ### Projects and Code Examples- [DevPost](https://devpost.com/Yakumwamba) Porfolio
-
-
 
 1.   AiArtNFT.app is an NFT marketplace with built-in Generative AI system, that generates art from text, using OpenAI's DALL-E API, and enables the    selection of the generated image and immediate placement of that image into an NFT marketplace.
 
