@@ -22,13 +22,13 @@
 
 ## About Me
 
-Highly skilled Rust blockchain developer with over 5 years of experience in developing decentralized applications (dApps) and smart contracts using Solana, APTOs, Near Protocol, Neo, Chainlink, and Ethereum Virtual Machine (EVM). Proficient in Solidity, Java, and Golang, and adept at frontend development using TypeScript, JavaScript, Next.js, and React. Experienced in Zero Knowledge smart contracts, which are gaining popularity in 2023. Passionate about creating innovative and secure solutions for the blockchain industry.
+Highly skilled Solidity/Rust blockchain developer with over 10 years developer experience, Created (dApps) and smart contracts using Solana, APTOs, Near Protocol, Neo, Chainlink, and Ethereum Virtual Machine (EVM). Proficient in Solidity, Java, and Golang, and adept at frontend development using TypeScript, JavaScript, Next.js, and React. Experienced in Zero Knowledge smart contracts, which are gaining popularity in 2023. Passionate about creating innovative and secure solutions for the blockchain industry.
 
 **Technical Skills**
 
 - Blockchain: Solana, Near Protocol, Ethereum Virtual Machine (EVM), Neo, APTOs, Chainlink,  
 - Smart Contract Languages: Solidity, Java, Golang,
-- Frontend: TypeScript, JavaScript, Next.js, React, Yew
+- Frontend: TypeScript, JavaScript, Next.js, React, Vue, Angular,  Yew
 - Other Languages: Python, C++, Ruby
     - Tools and Frameworks: Anchor, Truffle, Hardhat, Git, Docker
 - Knowledge: Zero Knowledge Smart Contracts, Decentralized Finance (DeFi), Cryptography
