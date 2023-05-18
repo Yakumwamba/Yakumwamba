@@ -34,7 +34,7 @@ Highly skilled Solidity/Rust blockchain developer with over 10 years developer e
 - Knowledge: Zero Knowledge Smart Contracts, Decentralized Finance (DeFi), Cryptography
 
 I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
-In my free time, I love experimenting with new technologies and  do technical [Writing](https://dev.to/yaku). I enjoy learning about   different cultures and feel free to chat me on [Twitter](https://twitter.com/brianlemba). 
+In my free time, I love experimenting with new technologies and  do technical [Writing](https://dev.to/yaku). I enjoy learning about   different cultures and feel free to chat me on [Twitter](https://twitter.com/CodewithYaku). 
 
 
 ### Projects and Code Examples- [DevPost](https://devpost.com/Yakumwamba) Porfolio
