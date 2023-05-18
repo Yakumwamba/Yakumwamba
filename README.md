@@ -55,8 +55,8 @@ In my free time, I love experimenting with new technologies and  do technical [W
   If you have any questions, feel free to reach out to me via  [Twitter](https://twitter.com/brianlemba) or mail  [Mail](https://yakumwamba@gmail.com). 
 
 
-### Hackathons
-- I havent participated in any hackthon of late but you can check my [DevPost](https://devpost.com/Yakumwamba) for future hackathons I will participate in. 
+### Hackathons 
+✅ I Continously participate in Web3 hackathons which is a great way for me to network with hackers in the blockchain industry, Check my profile here [DevPost](https://devpost.com/Yakumwamba) 
  
 ### 📕 Blogs
 
