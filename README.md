@@ -52,7 +52,7 @@ In my free time, I love experimenting with new technologies and  do technical [W
     https://github.com/Yakumwamba/google_webrtc_svelte. 
    
    
-  If you have any questions, feel free to reach out to me via  [Twitter](https://twitter.com/brianlemba) or mail  [Mail](https://yakumwamba@gmail.com). 
+  If you have any questions, feel free to reach out to me email  [Mail](https://brianlemba@gmail.com). 
 
 
 ### Hackathons 
