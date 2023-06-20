@@ -41,14 +41,7 @@ Feel free to reach out to me via email at brianlemba2@gmail.com or connect with 
 
 ### Projects and Code Examples- [DevPost](https://devpost.com/Yakumwamba) Porfolio
 
-1.   AiArtNFT.app is an NFT marketplace with built-in Generative AI system, that generates art from text, using OpenAI's DALL-E API, and enables the      					selection of the generated image and immediate placement of that image into an NFT marketplace.
-
-![logo](https://user-images.githubusercontent.com/72974932/213672932-9773b21e-d028-42a4-bd11-3fc0a61d1df6.png)
-
-  Novelty is that, while it is possible to find many text-to-image generation web services and many NFT marketplaces, to the best of our knowledge, 	there   are only two Web 3 dApps, as hackathon projects that integrate AI art generation with NFT marketplace. This project is Open source and you 	can check it   out 👉 [Source Code](https://github.com/Yakumwamba/xrp-generative-art/).
-
-
-2. Google WebRTC Mini Projects
+1. Google WebRTC Mini Projects
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
