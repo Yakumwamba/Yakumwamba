@@ -22,8 +22,9 @@
 
 ## Hi there! 👋 I'm Brian Lemba
 
-Experienced Software Engineer | Frontend Development | Backend Engineering
-I'm passionate about creating innovative and secure solutions for the blockchain industry. With over 10 years of experience in software development, I have expertise in both frontend development and backend engineering. I specialize in building user-friendly interfaces and developing smart contracts using Solidity and other blockchain technologies.
+Experienced 👉 **Software Engineer** | **Frontend Development** | **Backend Engineering**
+
+I'm passionate about creating innovative and secure solutions for the blockchain industry. With over **10 years** of experience in software development, I have expertise in both frontend development and backend engineering. I specialize in building user-friendly interfaces and developing smart contracts using Solidity and other blockchain technologies.
 
 ## Technologies I work with:
 
