@@ -35,7 +35,7 @@ Tools and Frameworks: Anchor, Truffle, Hardhat, Git, Docker
 Knowledge: Zero Knowledge Smart Contracts, Decentralized Finance (DeFi), Cryptography
 I am always looking for new ways to improve the user experience and I focus on writing well-tested and maintainable code. In my free time, I love experimenting with new technologies and doing technical writing.
 
-Feel free to reach out to me via email at your@email.com or connect with me on [Twitter](https://twitter.com/CodewithYaku). Let's chat and create something amazing together!
+Feel free to reach out to me via email at brianlemba2@gmail.com or connect with me on [Twitter](https://twitter.com/CodewithYaku). Let's chat and create something amazing together!
 
 
 
