@@ -20,21 +20,23 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## About Me
+## Hi there! 👋 I'm Brian Lemba
 
-Highly skilled Solidity/Rust blockchain developer with over 10 years developer experience, Created (dApps) and smart contracts using Solana, APTOs, Near Protocol, Neo, Chainlink, and Ethereum Virtual Machine (EVM). Proficient in Solidity, Java, and Golang, and adept at frontend development using TypeScript, JavaScript, Next.js, and React. Experienced in Zero Knowledge smart contracts, which are gaining popularity in 2023. Passionate about creating innovative and secure solutions for the blockchain industry.
+Experienced Software Engineer | Frontend Development | Backend Engineering
+I'm passionate about creating innovative and secure solutions for the blockchain industry. With over 10 years of experience in software development, I have expertise in both frontend development and backend engineering. I specialize in building user-friendly interfaces and developing smart contracts using Solidity and other blockchain technologies.
 
-**Technical Skills**
+## Technologies I work with:
 
-- Blockchain: Solana, Near Protocol, Ethereum Virtual Machine (EVM), Neo, APTOs, Chainlink,  
-- Smart Contract Languages: Solidity, Java, Golang,
-- Frontend: TypeScript, JavaScript, Next.js, React, Vue, Angular,  Yew
-- Other Languages: Python, C++, Ruby
-    - Tools and Frameworks: Anchor, Truffle, Hardhat, Git, Docker
-- Knowledge: Zero Knowledge Smart Contracts, Decentralized Finance (DeFi), Cryptography
+Frontend: TypeScript, JavaScript, Next.js, React, Vue, Angular, Yew
+Backend: Solidity, Java, Golang
+Blockchain: Solana, Near Protocol, Ethereum Virtual Machine (EVM), Neo, APTOs, Chainlink
+Other Languages: Python, C++, Ruby
+Tools and Frameworks: Anchor, Truffle, Hardhat, Git, Docker
+Knowledge: Zero Knowledge Smart Contracts, Decentralized Finance (DeFi), Cryptography
+I am always looking for new ways to improve the user experience and I focus on writing well-tested and maintainable code. In my free time, I love experimenting with new technologies and doing technical writing.
 
-I am always looking 👁️👁️ for new ways to improve the UX, and I focus on well-tested and maintainable code. 
-In my free time, I love experimenting with new technologies and  do technical [Writing](https://dev.to/yaku). I enjoy learning about   different cultures and feel free to chat me on [Twitter](https://twitter.com/CodewithYaku). 
+Feel free to reach out to me via email at your@email.com or connect with me on [Twitter](https://twitter.com/CodewithYaku). Let's chat and create something amazing together!
+
 
 
 ### Projects and Code Examples- [DevPost](https://devpost.com/Yakumwamba) Porfolio
@@ -50,15 +52,12 @@ In my free time, I love experimenting with new technologies and  do technical [W
     This projects consist of examples of how to use webrtc in web applications - voice calling, video calling and data sharing
     I have a repo where you can test it out 👇
     https://github.com/Yakumwamba/google_webrtc_svelte. 
-   
-   
-  If you have any questions, feel free to reach out to me email  [Mail](https://brianlemba@gmail.com). 
 
 
 ### Hackathons 
 ✅ I Continously participate in Web3 hackathons which is a great way for me to network with hackers in the blockchain industry, Check my profile here [DevPost](https://devpost.com/Yakumwamba) 
  
-### 📕 Blogs
+### 📕 Blogs 
 
 <!-- BLOG-POST-LIST:START -->
   - [15 CSS basics that will boost your designing confidence as a frontend Developer](https://dev.to/yaku/15-css-that-will-boost-your-designing-confidence-as-frontend-developer-1j55)
