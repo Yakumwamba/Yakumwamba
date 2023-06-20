@@ -27,12 +27,18 @@ I'm passionate about creating innovative and secure solutions for the blockchain
 
 ## Technologies I work with:
 
-Frontend: TypeScript, JavaScript, Next.js, React, Vue, Angular, Yew
-Backend: Solidity, Java, Golang
-Blockchain: Solana, Near Protocol, Ethereum Virtual Machine (EVM), Neo, APTOs, Chainlink
-Other Languages: Python, C++, Ruby
-Tools and Frameworks: Anchor, Truffle, Hardhat, Git, Docker
-Knowledge: Zero Knowledge Smart Contracts, Decentralized Finance (DeFi), Cryptography
+**Frontend:** TypeScript, JavaScript, Next.js, React, Storybook, Vue, Angular, Yew
+
+**Backend:** Solidity, Java, Golang, AzureDev, Vercel, 
+
+**Dabases:** MongoDb, Postgresql, Firebase, Supabase, MySQL
+
+**Blockchain**: Solana, Near Protocol, Ethereum Virtual Machine (EVM), Neo, APTOs, Chainlink)
+
+**Other Languages:** Python, C++, Ruby
+
+**Tools and Frameworks:** Anchor, Truffle, Hardhat, Git, Docker
+
 I am always looking for new ways to improve the user experience and I focus on writing well-tested and maintainable code. In my free time, I love experimenting with new technologies and doing technical writing.
 
 Feel free to reach out to me via email at brianlemba2@gmail.com or connect with me on [Twitter](https://twitter.com/CodewithYaku). Let's chat and create something amazing together!
