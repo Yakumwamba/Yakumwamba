@@ -1,6 +1,5 @@
 
-
-![Pink Yellow Retro Content Marketer LinkedIn Banner (7)](https://github.com/Yakumwamba/Yakumwamba/assets/72974932/428efddf-c05c-467f-a76d-7998b8d9b291)
+![Pink Yellow Retro Content Marketer LinkedIn Banner (8)](https://github.com/Yakumwamba/Yakumwamba/assets/72974932/29373b64-94a4-4257-acfa-76049f0b4149)
 
 <p align="center" s>
 <h1>Full-Stack Blockchain Developer</h1>
